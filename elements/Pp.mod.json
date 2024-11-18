@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "new_piskel_5",
+    "name": "Mein Furher",
+    "description": "D",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:erika"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

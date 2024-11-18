@@ -46,6 +46,7 @@ public class CkModElements {
 	public static Map<ResourceLocation, net.minecraft.util.SoundEvent> sounds = new HashMap<>();
 
 	public CkModElements() {
+		sounds.put(new ResourceLocation("ck", "erika"), new net.minecraft.util.SoundEvent(new ResourceLocation("ck", "erika")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("ck").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();

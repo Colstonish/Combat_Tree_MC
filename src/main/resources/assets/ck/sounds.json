@@ -1,0 +1,12 @@
+{
+  "erika": {
+    "category": "music",
+    "subtitle": "subtitles.erika",
+    "sounds": [
+      {
+        "name": "ck:youtube_lvq5zordyic_audio",
+        "stream": true
+      }
+    ]
+  }
+}

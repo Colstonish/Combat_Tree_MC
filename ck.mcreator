@@ -1,9 +1,31 @@
 {
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "Pp",
+      "type": "musicdisc",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pp"
+    }
+  ],
   "variable_elements": [],
-  "sound_elements": [],
+  "sound_elements": [
+    {
+      "name": "erika",
+      "files": [
+        "youtube_lvq5zordyic_audio"
+      ],
+      "category": "music",
+      "subtitle": "d"
+    }
+  ],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "subtitles.erika": "d",
+      "item.ck.pp.desc": "D",
+      "item.ck.pp": "Mein Furher"
+    }
   },
   "foldersRoot": {
     "name": "~",
